@@ -1,19 +1,19 @@
-nav{
-background-color: darkgoldenrod;
-padding: 30px;
+.navbar{
+  background-color: darkolivegreen;
 }
 
 body{
     background-color: #A4B0BD;
     font-family: 'Rajdhani', sans-serif;
+    font-size: medium;
+}
+
+.photo{
+  max-width: 200px;
+
 }
 
 
-
 .card{
-  padding:25px 70px 75px 100px;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  
 }
